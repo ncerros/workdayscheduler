@@ -1,6 +1,6 @@
 # workdayscheduler
 ##
-This dayly planner provides an easy way to add and organize a 
+This daily planner provides an easy way to add and organize a 
 busy daily schedule. With this planner by clicking the save button, events ca be save during each hour. 
 
 ### 
