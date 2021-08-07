@@ -5,11 +5,12 @@ busy daily schedule. With this planner by clicking the button,the user can save 
 
 ### 
 Libraries:
-.Moment.js
-.Jquery
-.Bootstrap
-.Fontawsone
-.fontgoogle
+- Moment.js
+- Jquery
+- Bootstrap
+- Fontawsone
+- fontgoogle
+- 
 #####
 I added border radius to the time buttons, text area, and the save button. I also added color to the background inside the jumbotron, time, textarea, and the save buttons
  
